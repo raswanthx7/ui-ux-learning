@@ -1,3 +1,7 @@
 # HELLO
-YOUTUBE VIDEO LINK
+
+## YOUTUBE VIDEO LINK
 [DESIGN PRINCIPLE](https://youtu.be/NTmh8l-Xl4c?si=FtDpjaU3kCxyd_70)
+
+## WEBSITES
+[DESIGN PRINCIPLE](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)
