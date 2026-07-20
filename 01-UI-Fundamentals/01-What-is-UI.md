@@ -204,6 +204,7 @@ Headings, labels, and plain text are part of the interface, but they do not resp
 
 ## Key Takeaways
 
+* UI is not just about making things look beautiful. It's about designing the visual interface so users can interact with the product clearly, consistently, and efficiently.
 * UI (User Interface) is the interaction layer between users and digital products.
 * UI includes everything users can see and interact with.
 * Every interface is built using three core components:
