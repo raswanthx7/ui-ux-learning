@@ -208,7 +208,6 @@ Headings, labels, and plain text are part of the interface, but they do not resp
 * UI (User Interface) is the interaction layer between users and digital products.
 * UI includes everything users can see and interact with.
 * Every interface is built using three core components:
-
   * Visual Design
   * Layout
   * Interactive Elements
