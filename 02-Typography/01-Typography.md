@@ -82,6 +82,10 @@ Examples:
 * SF Pro
 * Open Sans
 
+* Roboto → Android system-oriented design
+* SF Pro → Apple system-oriented design
+* Inter → great cross-platform product choice
+
 ### Characteristics
 
 * Modern appearance
