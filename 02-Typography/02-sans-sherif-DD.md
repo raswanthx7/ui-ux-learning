@@ -21,7 +21,7 @@
 
 **Sans Serif** is a font classification where letters do not have the small decorative strokes called **serifs** at their ends.
 
-"Sans" means "without."
+"Sans" means "without"
 
 Therefore:
 
