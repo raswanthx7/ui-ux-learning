@@ -7,4 +7,5 @@
 
 ## WEBSITES
 - [DESIGN PRINCIPLE](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)
+- [GOOGLE FONTS](https://fonts.google.com/)
 
