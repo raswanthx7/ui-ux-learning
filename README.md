@@ -7,5 +7,10 @@
 
 ## WEBSITES
 - [DESIGN PRINCIPLE](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)
+
+### font websites
 - [GOOGLE FONTS](https://fonts.google.com/)
+- [FONTSHARE](https://www.fontshare.com/)
+- [ADOBE FONTS](https://fonts.adobe.com/)
+- [DAFONT](https://www.dafont.com/)
 
