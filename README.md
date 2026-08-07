@@ -14,3 +14,6 @@
 - [ADOBE FONTS](https://fonts.adobe.com/)
 - [DAFONT](https://www.dafont.com/)
 
+### color websites
+- [Canva](https://www.canva.com/colors/)
+
