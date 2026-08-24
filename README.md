@@ -19,6 +19,7 @@
 
 ### Important
 - [offline-ux-design-guidelines](https://web.dev/articles/offline-ux-design-guidelines)
+- [What Is User Research, and What Is Its Purpose?](https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/) — CareerFoundry article explaining user research, its purpose, benefits, planning, and common research methods.
 
 
 ### Documents and Files for Course Activities
