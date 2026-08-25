@@ -8,22 +8,22 @@
 ## WEBSITES
 - [DESIGN PRINCIPLE](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)
 
-### font websites
+## font websites
 - [GOOGLE FONTS](https://fonts.google.com/)
 - [FONTSHARE](https://www.fontshare.com/)
 - [ADOBE FONTS](https://fonts.adobe.com/)
 - [DAFONT](https://www.dafont.com/)
 
-### color websites
+## color websites
 - [Canva](https://www.canva.com/colors/)
 
-### Important
+## Important
 - [offline-ux-design-guidelines](https://web.dev/articles/offline-ux-design-guidelines)
 - [What Is User Research, and What Is Its Purpose?](https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/) — CareerFoundry article explaining user research, its purpose, benefits, planning, and common research methods.
 - [Web Application Privacy Best Practices](https://www.w3.org/TR/app-privacy-bp/)
 
 
-### Documents and Files for Course Activities
+## Documents and Files for Course Activities
 
 To complete certain activities in the program, you will need to use digital documents, spreadsheets, presentations, and/or labs.
 UX design professionals use these software tools to collaborate within their teams and organizations.
@@ -38,11 +38,11 @@ If you need more information about using a particular type of document, refer to
 
 ---
 
-### Stay Current with the UX Industry
+## Stay Current with the UX Industry
 
 UX design is constantly evolving, so staying updated with new tools, standards, best practices, and industry trends is important for your growth.
 
-#### Thought Leaders in UX Design
+### Thought Leaders in UX Design
 
 Explore organizations, blogs, and resources created by UX professionals to learn best practices, industry insights, and design trends.
 
@@ -87,6 +87,8 @@ Use official tool documentation and tutorials to learn current features and work
 * [Sketch 101](https://www.sketch.com/courses/sketch-101/) — Beginner Sketch course.
 * [Freehand](https://www.freehandapp.com/resources/) — Resources for collaborative design and whiteboarding.
 * [Zeplin Getting Started](https://support.zeplin.io/en/articles/6576801-getting-started-with-zeplin-for-designers) — Guide for designers using Zeplin.
+
+---
 
 ## Creator-made UX Tutorials
 
