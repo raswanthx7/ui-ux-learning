@@ -102,4 +102,10 @@ Use ready-made templates to practice designs, explore different layouts, and spe
 * [Airtable Templates](https://www.airtable.com/templates) — Templates for organizing and managing information.
 * [Miro Templates](https://miro.com/templates/) — Templates for workshops, brainstorming, and UX activities.
 
+### To learn more about accessibility
+
+1. [Designing for Global Accessibility, Part I: Awareness is everything](https://design.google/library/designing-global-accessibility-part-1/)
+2. [Designing for Global Accessibility, Part II: Context matters](https://design.google/library/designing-global-accessibility-part-2/)
+3. [Designing for Global Accessibility, Part III: Be inclusive by default](https://design.google/library/designing-global-accessibility-part-iii/)
+
 
