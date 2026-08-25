@@ -102,10 +102,35 @@ Use ready-made templates to practice designs, explore different layouts, and spe
 * [Airtable Templates](https://www.airtable.com/templates) — Templates for organizing and managing information.
 * [Miro Templates](https://miro.com/templates/) — Templates for workshops, brainstorming, and UX activities.
 
+---
+
 ### To learn more about accessibility
 
 1. [Designing for Global Accessibility, Part I: Awareness is everything](https://design.google/library/designing-global-accessibility-part-1/)
 2. [Designing for Global Accessibility, Part II: Context matters](https://design.google/library/designing-global-accessibility-part-2/)
 3. [Designing for Global Accessibility, Part III: Be inclusive by default](https://design.google/library/designing-global-accessibility-part-iii/)
 
+---
 
+# UX Case Study Resources
+
+**UX case-study flow:**
+
+Business problem → Assumptions → User research → Findings → Design decisions → Outcome
+
+## Resources
+
+1. [Google Design — User Research](https://design.google/tags/user-research/)
+   - Best for learning user research and challenging assumptions.
+2. [Google Design — Field Research](https://design.google/library/beyond-the-desktop-field-research/)
+   - Learn how researchers understand users in their real-world context.
+3. [UX Design Institute — UX Research Case Studies](https://www.uxdesigninstitute.com/blog/real-world-ux-research-case-studies/)
+   - Real-world research examples from companies like Airbnb, Google, and Spotify.
+4. [AnswerLab — UX Research Case Studies](https://www.answerlab.com/case-studies)
+   - Industry-level UX research examples.
+5. [Pratt DX — UX Case Studies](https://prattdx.org/case-studies/)
+   - UX design, research, usability testing, accessibility, and more.
+6. [UXcel — UX Case Study Examples](https://uxcel.com/blog/ux-case-studies-examples)
+   - Learn how UX case studies are structured.
+
+---
