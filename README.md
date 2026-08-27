@@ -7,7 +7,7 @@
 
 ## WEBSITES
 - [DESIGN PRINCIPLE](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)
-- [uxwritinghub](https://course.uxwritinghub.com/) free course for learning ux writing
+- [UXWRITINGHUB](https://course.uxwritinghub.com/free_course/) free course for learning ux writing
 
 ## font websites
 - [GOOGLE FONTS](https://fonts.google.com/)
