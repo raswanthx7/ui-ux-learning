@@ -141,3 +141,4 @@ Business problem → Assumptions → User research → Findings → Design decis
 ## design sprint
 
 [GOOGLE DESIGN SPRINT — UX Case Study ](https://designsprintkit.withgoogle.com/case-studies)
+- [MEDIUM — THINGS LEARNED IN FIRST SPRINT](https://uxplanet.org/3-things-i-learned-from-my-first-design-sprint-ed5d2113afad)
