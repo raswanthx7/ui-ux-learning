@@ -137,3 +137,7 @@ Business problem → Assumptions → User research → Findings → Design decis
    - Learn how UX case studies are structured.
 
 ---
+
+## design sprint
+
+[GOOGLE DESIGN SPRINT — UX Case Study ](https://designsprintkit.withgoogle.com/case-studies)
