@@ -142,3 +142,11 @@ Business problem → Assumptions → User research → Findings → Design decis
 
 [GOOGLE DESIGN SPRINT — UX Case Study ](https://designsprintkit.withgoogle.com/case-studies)
 - [MEDIUM — THINGS LEARNED IN FIRST SPRINT](https://uxplanet.org/3-things-i-learned-from-my-first-design-sprint-ed5d2113afad)
+
+---
+
+## Here are some examples of prompt you can use to generate a portfolio prompt:
+
+I'm a UX designer designing a mobile app and a responsive website to meet the specific need of a hypothetical business or organization for my portfolio. I need an example portfolio project prompt with a fictional business and the need my project fulfills. It should be formatted, "Design an app and a responsive website for a [business or organization] to [business requirement]." Generate three prompts. 
+
+
